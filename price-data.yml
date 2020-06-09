@@ -1,0 +1,764 @@
+Oranges, 1kg:
+  foodId: :1170
+  name: Oranges
+  to_edible: 0.56
+  choline: 8.4
+Bananas, 1kg: 
+  name: Bananas
+  foodId: L1101
+  to_edible: 0.76
+  choline: 9.8
+Apples, 1kg: 
+  name: Apples
+  foodId: L1
+  to_edible: 0.76
+  choline: 3.4
+Kiwifruit, 1kg: 
+  foodId: L1010
+  name: Kiwifruit
+  to_edible: 0.76
+  choline: 7.8
+Sultanas (supermarket only), 375g:
+  name: Sultanas
+  foodId: L173
+  to_edible: 1.0
+  choline: 0
+"Peaches - canned (supermarket only), 410g": 
+  foodId: L1123
+  name: Canned Peaches
+  to_edible: 0.65
+  choline: 3.8
+Lettuce, 1kg: 
+  foodId: X1009
+  name: Lettuce
+  to_edible: 0.74
+  choline: 6.7
+Broccoli, 1kg: 
+  foodId: X1021
+  name: Broccoli
+  to_edible: 0.61
+  choline: 40
+Cabbage, 1kg: 
+  foodId: X25
+  name: Cabbage
+  to_edible: 0.79
+  choline: 11
+Tomatoes, 1kg: 
+  foodId: X1213
+  name: Tomatoes
+  to_edible: 0.91
+  choline: 6.7
+Carrots, 1kg: 
+  foodId: X1114
+  name: Carrots
+  to_edible: 0.82
+  choline: 8.8
+Mushrooms, 1kg":
+  name: Mushrooms
+  foodId: X1188
+  to_edible: 0.97
+  choline: 17
+Potatoes, 1kg: 
+  foodId: X1145
+  name: Potatoes
+  to_edible: 0.81
+  choline: 19
+"Peas - frozen (supermarket only), 1kg":
+  name: Frozen Peas
+  foodId: X1135
+  legume: true
+  to_edible: 1.0
+  choline: 28
+"Beef steak - blade, 1kg": 
+  name: "Beef steak - blade"
+  foodId: M1173
+  meat: true
+  red_meat: true
+  animal: true
+  to_edible: 0.6
+  choline: 94
+"Beef steak - porterhouse/sirloin, 1kg": 
+  name: "Beef steak - porterhouse"
+  foodId: M1184
+  meat: true
+  red_meat: true
+  animal: true
+  to_edible: 0.6
+  choline: 94
+"Beef - mince, 1kg":
+  name: Beef mince
+  foodId: M1233
+  meat: true
+  red_meat: true
+  animal: true
+  to_edible: 0.69
+  choline: 81
+"Pork - loin chops, 1kg": 
+  name: Pork chops
+  foodId: M513
+  meat: true
+  pork: true
+  animal: true
+  to_edible: 0.48
+  choline: 78
+"Lamb - chops, 1kg": 
+  foodId: M1210
+  name: Lamb chops
+  meat: true
+  red_meat: true
+  animal: true
+  to_edible: 0.44
+  choline: 100
+"Bacon - middle rashers (supermarket only), 1kg": 
+  foodId: N1041
+  name: Bacon
+  meat: true
+  pork: true
+  animal: true
+  to_edible: 0.32
+  choline: 130
+Sausages, 1kg: 
+  foodId: N59
+  name: Sausages
+  meat: true
+  pork: true
+  gluten: true
+  animal: true
+  to_edible: 0.8
+  choline: 67
+"Tuna - canned (supermarket only), 185g": 
+  foodId: K1006
+  name: Canned tuna
+  meat: true
+  fish: true
+  animal: true
+  to_edible: 0.71
+  choline: 29
+"Bread - white sliced loaf, 700g": 
+  foodId: A1007
+  name: White bread
+  added_sugar: true
+  grain:  true
+  gluten: true
+  seed_oil: true
+  to_edible: 1.0
+  choline: 15
+  serving: 700
+  max_servings: 4
+  unit_single: loaf
+  unit_plural: loaves
+Breakfast biscuits, 1kg: 
+  foodId: D1056
+  name: Weetbix
+  added_sugar: true
+  grain:  true
+  gluten: true
+  to_edible: 1.0
+  choline: 31.8
+"Rice - long grain, white (supermarket only), 1kg": 
+  foodId: E1078
+  name: Rice
+  grain:  true
+  to_edible: 2.5
+  choline: 2.1
+"Milk - standard homogenised, 2 litres": 
+  foodId: F1028
+  name: Milk
+  dairy: true
+  animal: true
+  to_edible: 1.0
+  choline: 14
+"Yoghurt - flavoured, 150g pottle (supermarket only), pk of 6": 
+  foodId: F1079
+  name: Yoghurt
+  dairy: true
+  animal: true
+  to_edible: 1.0
+  choline: 14
+"Cheese - mild cheddar (supermarket only), 1kg": 
+  foodId: F1010
+  name: Cheese
+  dairy: true
+  animal: true
+  to_edible: 1.0
+  choline: 36
+Eggs, dozen: 
+  foodId: G1001
+  name: Eggs
+  added_sugar: false
+  animal: true
+  to_edible: 1.0
+  choline: 233.3
+  serving: 57
+  max_servings: 24
+  unit_single: egg
+  unit_plural: eggs
+"Butter - salted, 500g": 
+  foddId: F1046
+  name: Butter
+  dairy: true
+  animal: true
+  to_edible: 1.0
+  choline: 18.8
+"Tomato sauce - canned, 575g": 
+  name: Tomato sauce
+  foodId: S44
+  added_sugar: true
+  to_edible: 1.0
+  choline: 0
+  max_servings: 1
+"Chocolate - block (supermarket only), 250g": 
+  foodID: W1005
+  name: Chocolate
+  added_sugar: true
+  dairy: true
+  animal: true
+  to_edible: 1.0
+  choline: 28.8
+"Spaghetti - canned, 420g":
+  foodId: E1005
+  name: Canned spaghetti
+  added_sugar: true
+  grain:  true
+  gluten: true
+  to_edible: 1.0
+  choline: 4.1
+"Fruit juice - apple based (supermarket only), 3 litre": 
+  foodId: C111
+  name: Juice, apple based
+  to_edible: 1.0
+  choline: 1.8
+"Tomato sauce - canned, 560g": 
+  foodId: S44
+  name: Tomato sauce
+  added_sugar: true
+  to_edible: 1.0
+  choline: 11.5
+  max_servings: 1
+"Bacon - middle rashers (supermarket only), 700g": 
+  name: Bacon
+  foodId: N1041
+  meat: true
+  pork: true
+  animal: true
+  to_edible: 0.32
+  choline: 130
+Chicken breast, 1kg: 
+  foodId: M232
+  name: Chicken breast
+  meat: true
+  animal: true
+  to_edible: 0.74
+  choline: 35
+"Bread - white sliced loaf, 600g": 
+  name: White bread
+  foodId: A1007
+  added_sugar: true
+  grain:  true
+  gluten: true
+  to_edible: 1.0
+  choline: 15
+  serving: 600
+  max_servings: 4
+  unit_single: loaf
+  unit_plural: loaves
+Alfalfa sprouts, 1kg": 
+  foodId: X266
+  name: Alfalfa sprouts
+  to_edible: 1.0
+  choline: 14
+Apricots, dried, 100g: 
+  name: Dried apricots
+  foodId: L1156
+  to_edible: 1.0
+  choline: 14
+  max_servings: 5
+Avocado, 1kg: 
+  foodId: L1159
+  name: Avocados
+  to_edible: 0.72
+  choline: 14
+  serving: 150
+  unit_single: A
+Beans, 1kg": 
+  name: Dry beans 
+  foodId: X10
+  legume: true
+  to_edible: 2.6
+  choline: 45
+Breakfast drink, 250ml, 6 pack: 
+  name: Liquid breakfats drink
+  foodId: C1094
+  added_sugar: true
+  dairy: true
+  animal: true
+  to_edible: 1.0
+  choline: 18
+Capsicums, green, else red, 1kg:
+  name: Capsicums
+  foodId: X1049
+  to_edible: 0.65
+  choline: 5.6
+Cauliflower, 1kg":
+  name: Cauliflower
+  foodId: X1129
+  to_edible: 0.55
+  choline: 39
+Celery, 1kg: 
+  foodId: X1091
+  name: Celery
+  to_edible: 0.75
+  choline: 6.1
+Cheese, cottage, 250g:
+  name: Cottage cheese 
+  foodId: F11
+  dairy: true
+  animal: true
+  to_edible: 1.0
+  choline: 18
+Cheese, camembert, 125g:
+  name: Camembert cheese
+  foodId: F5
+  dairy: true
+  animal: true
+  to_edible: 1.0
+  choline: 15.4
+Cheese, processed slices, 250g:
+  name: Cheese slices
+  foodId: F19
+  dairy: true
+  animal: true
+  to_edible: 1.0
+  choline: 36
+"Chicken, cooked, whole, No. 15 - Cheapest Available": 
+  name: Whole chicken
+  foodId: M1011
+  meat: true
+  animal: true
+  to_edible: 0.61
+  choline: 66
+Chicken pieces (excluding breast), boneless or bone in, 1kg:
+  name: Chciken pieces
+  foodId: M1011
+  meat: true
+  animal: true
+  to_edible: 0.45
+  choline: 68
+"Chicken, whole, frozen, No. 15 - Cheapest Available":
+  name: Whole chicken, frozen
+  foodId: M1011
+  meat: true
+  animal: true
+  to_edible: 0.61
+  choline: 79
+Chicken nuggets, frozen, 1kg:
+  name: Chicken nuggets
+  foodId: N49
+  gluten: true
+  meat: true
+  animal: true
+  to_edible: 1.0
+  choline: 41
+Corn, creamed style, canned, 410g: 
+  name: Canned creamed corn
+  foodId: X1158
+  added_sugar: true
+  grain:  true
+  to_edible: 1.0
+  choline: 20.3
+Corn flakes, 500g:
+  name: Corn flakes
+  foodId: D1057
+  added_sugar: true
+  grain: true
+  to_edible: 1.0
+  choline: 3.9
+Corned beef, fresh, chilled or frozen, 1kg:
+  name: Corned beef
+  foodId: M1043
+  meat: true
+  animal: true
+  red_meat: true
+  to_edible: 0.71
+  choline: 69.2
+Courgettes, 1kg:
+  name: Courgettes 
+  foodId: X1058
+  to_edible: 0.95
+  choline: 9.4
+"Cream, 300ml - Cheapest Available": 
+  name: Cream
+  foodId: F24
+  dairy: true
+  animal: true
+  to_edible: 1.0
+  choline: 19
+  max_servings: 5
+Cucumber, 1kg:
+  name: Cucumber
+  foodId: X1043
+  to_edible: 0.95
+  choline: 6
+  serving: 380
+Milk, calcium enriched, 2 litres: 
+  name: Milk
+  foodId: F1018
+  dairy: true
+  animal: true
+  to_edible: 1.0
+  choline: 14
+Fish fillets, frozen, multipack, 500g:
+  name: Frozen fish fillets
+  foodId: H194
+  meat: true
+  fish: true
+  gluten: true
+  grain: true
+  animal: true
+  to_edible: 1.0
+  choline: 49
+"Flat bread - pita, tortilla, or other type":
+  name: Flat bread
+  foodId: A1097
+  gluten: true
+  grain: true
+  to_edible: 1.0
+  choline: 7.9
+Eggs, free range, 6 pack:
+  name: Eggs
+  foodId: G1012
+  animal: true
+  to_edible: 1.0
+  choline: 230
+  max_servings: 24
+Fresh fish, 1kg:
+  name: Fresh fish
+  foodId: K33
+  fish: true
+  animal: true
+  to_edible: 0.7
+  choline: 49
+Fresh pasta, tortellini or other filled type, 300g:
+  name: Fresh pasta
+  foodId: E55
+  gluten: true
+  grain: true
+  animal: true
+  to_edible: 1.0
+  choline: 6.4
+Dried pasta, spaghetti or other type, 500g: 
+  name: Dried pasta
+  foodId: E1064
+  gluten: true
+  grain: true
+  to_edible: 2.25
+  choline: 6.4
+Berries, frozen, 500g:
+  name: Berries
+  foodId: L1045
+  to_edible: 1.0
+  choline: 8.6
+Grapes, green or red:
+  name:  Grapes
+  foodId: L82
+  to_edible: 0.92
+  choline: 5.6
+Honey, clover, creamed, 500g:
+  name: Honey 
+  foodId: W1019
+  animal: true
+  to_edible: 1.0
+  choline: 2.2
+  max_servings: 2
+Hummus dip, 200g:
+  name: Hummus
+  foodId: S73
+  seed_oil: true
+  legume: true
+  to_edible: 1.0
+  choline: 27.6
+Kumara, 1kg:
+  name: Kumara
+  foodId: X1010
+  to_edible: 0.8
+  choline: 13
+"Luncheon meat, delicatessen, 1kg - Cheapest Available":
+  name: Luncheon meat 
+  foodId: N1019
+  meat: true
+  pork: true
+  animal: true
+  to_edible: 1.0
+  choline: 46
+Mandarins, 1kg:
+  name: Mandarins
+  foodId: L1162
+  to_edible: 0.68
+  choline: 10
+Mussels, marinated, 375g: 
+  name: Mussels 
+  foodId: T1005
+  to_edible: 0.61
+  choline: 129.4
+  max_servings: 5
+Mixed vegetables, frozen, 1kg:
+  name: Frozen mixed vegetables
+  foodId: X1197
+  to_edible: 1.0
+  choline: 23.8
+Muesli/cereal bars, 200g: 
+  name: Muesli bar 
+  foodId: U25
+  added_sugar: true
+  grain: true
+  gluten: true
+  to_edible: 1.0
+  choline: 22
+Mussels, live, 1kg: 
+  name: Live mussels
+  foodId: T1024
+  meat: true
+  mollusc: true
+  animal: true
+  to_edible: 0.55
+  choline: 129.4
+  max_servings: 5
+Olive oil, pure, not extra virgin or light, 1 litre: 
+  name: Olive oil
+  foodId: J10
+  to_edible: 1.0
+  choline: 0.3
+  max_servings: 1
+Onions, 1kg:
+  name: Onions 
+  foodId: X1131
+  to_edible: 0.89
+  choline: 6.5
+"Orange juice, not apple based, 1 litre - Cheapest Available":
+  name: Orange juice
+  foodId: L113
+  to_edible: 1.0
+  choline: 6.6
+Parsnips, 1kg:
+  name: Parsnips 
+  foodId: X1099
+  to_edible: 0.85
+  choline: 26.8
+Pasta sauces, tomato based, 500g:
+  name: Pasta sauce, tomato based
+  added_sugar: true
+  foodId: S35
+  to_edible: 1.0
+  choline: 14
+  max_servings: 5
+Pastry, frozen sheets, puff or flaky, 800g:
+  name: Pastry sheets 
+  foodID: R5413
+  gluten: true
+  grain: true
+  to_edible: 1.0
+  choline: 17
+  max_servings: 24
+Pineapple, pieces, in juice or syrup, canned, 425g:
+  name: Canned pineapple 
+  foodId: L1130
+  added_sugar: true
+  to_edible: 0.52
+  choline: 5.7
+Pineapple, 1kg:
+  name: Pineapple 
+  foodId: L144
+  to_edible: 0.52
+  choline: 5.7
+Potato fries, frozen, 1kg:
+  name: Potato fries
+  foodId: X101
+  to_edible: 1.0
+  choline: 24
+  gluten: true
+  seed_oil: true
+Prawns, frozen, 700g:
+  name: Prawns
+  foodId: T1027
+  crustacean: true
+  meat: true
+  animal: true
+  to_edible: 0.62
+  choline: 80.5
+Pumpkin, 1kg:
+  name: Pumpkin 
+  foodId: X147
+  to_edible: 0.66
+  choline: 6.4
+Roasting lamb and hogget, fresh, chilled or frozen, 1kg:
+  name: Roasting Lamb
+  foodId: M1121
+  meat: true
+  red_meat: true
+  animal: true
+  to_edible: 0.74
+  choline: 100
+Roasting pork, fresh, chilled or frozen, 1kg:
+  name: Roasting pork 
+  foodId: M278
+  meat: true
+  pork: true
+  animal: true
+  to_edible: 0.83
+  choline: 89
+Salad, leaf, packaged, 150g:
+  name: Salad leaf 
+  foodId: X1047
+  to_edible: 1.0
+  choline: 22
+Salami, 100g:
+  name: Salami 
+  foodId: N1020
+  meat: true
+  pork: true
+  animal: true
+  red_meat: true
+  to_edible: 1.0
+  choline: 46
+  max_servings: 5
+Salmon, imported, pink, canned, unflavoured, 210g:
+  name: Canned salmon
+  foodId: K1024
+  fish: true
+  meat: true
+  animal: true
+  to_edible: 1.0
+  choline: 88
+Soy milk, unflavoured, 1 litre:
+  name: Soy milk 
+  foodId: C166
+  legume: true
+  to_edible: 1.0
+  choline: 24
+Soy sauce, 300ml: 
+  name: Soy sauce 
+  foodId: S1014
+  legume: true
+  gluten: true
+  to_edible: 1.0
+  choline: 18
+  max_servings: 1
+Two minute noodles, multipack,5:
+  name: Two minute noodles
+  foodId: E1050
+  grain: true 
+  gluten: true
+  to_edible: 1.0
+  choline: 26
+Peanut butter, not salt free, 375g:
+  name: Peanut Butter
+  foodId: Q1019
+  legume: true
+  to_edible: 1.0
+  choline: 61
+Tomatoes, canned, 400g:
+  name: Canned Tomatoes
+  foodId: X1125
+  to_edible: 1.0
+  choline: 6.4
+Wheatmeal bread, sliced, 700g:
+  name: Wheatmeal bread
+  foodId: A1008
+  grain: true 
+  gluten: true
+  to_edible: 1.0
+  choline: 27
+  serving: 700
+  max_servings: 4
+Wholegrain bread, sliced, 700g:
+  name: Wholegrain bread
+  foodId: A1050
+  grain: true 
+  gluten: true
+  to_edible: 1.0
+  choline: 27
+  serving: 700
+  max_servings: 4
+Olives, jar, 400g: 
+  name: Olives 
+  foodId: L112
+  to_edible: 1.0
+  choline: 9.2
+  max_servings: 2
+Margarine/table spread, 500g:
+  name: Margarine 
+  foodId: J1001
+  seed_oil: true
+  to_edible: 1.0
+  choline: 0
+  max_servings: 1
+Mayonnaise, 380ml:
+  name: Mayonnaise
+  foodId: S45
+  seed_oil: true
+  to_edible: 1.0
+  choline: 22
+  max_servings: 1
+Peanuts, blanched, salted, 250g:
+  name: Peanurs 
+  foodId: Q1005
+  legume: true
+  to_edible: 1.0
+  choline: 53
+  max_servings: 3
+Ham, sliced or shaved, 1kg:
+  name: Ham
+  foodId: M124
+  meat: true
+  pork: true
+  animal: true
+  to_edible: 1.0
+  choline: 72
+rolled_oats:
+  name: Rolled Oats
+  search: countdown rolled oats quick
+  foodId: D1060
+  to_edible: 4  
+  choline: 6.5
+tahini:
+  name: Tahini
+  search: tahini unhulled
+  foodId: Q27 
+  to_edible: 1  
+  choline: 25.8
+  max_servings: 3
+sunflower_seeds:
+  name: Sunflower Seeds
+  search: sunflower seed
+  foodId: Q43
+  to_edible: 1 
+  choline: 55.1
+  max_servings: 3
+dessicated_coconut:
+  name: Dessicated Coconut
+  search: countdown coconut dessicated fine
+  foodId: Q9
+  to_edible: 1 
+  choline: 19.3
+  max_servings: 3
+dried_figs:
+  name: Dried Figs
+  search: freshlife silver platter figs
+  foodId: L68
+  to_edible: 1 
+  choline: 15.8
+  max_servings: 24
+dried_chickpeas:
+  name: Dried Chickpeas
+  foodId: X76
+  search: Mckenzies Chick Peas Dried
+  to_edible: 2
+  choline: 19
+marmite: 
+  name: Marmite
+  foodId: P1004
+  search: Sanitarium Marmite Yeast Spread
+  to_edible: 1
+  choline: 65.1
+  max_servings: 1
+
